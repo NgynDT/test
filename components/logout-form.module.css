@@ -1,0 +1,37 @@
+.iconAccountLogout {
+  position: absolute;
+  height: 88.37%;
+  width: 21.31%;
+  top: 4.65%;
+  right: 78.69%;
+  bottom: 6.98%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logOut,
+.ngXut {
+  position: absolute;
+}
+.ngXut {
+  height: 100%;
+  width: 75.41%;
+  top: 0;
+  left: 24.59%;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logOut {
+  top: 504px;
+  left: 556px;
+  width: 183px;
+  height: 43px;
+  text-align: center;
+  font-size: var(--font-size-8xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-work-sans);
+}

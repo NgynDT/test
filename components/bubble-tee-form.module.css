@@ -1,0 +1,283 @@
+.headerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 75px;
+}
+.logoStore,
+.logoStoreChild {
+  position: absolute;
+  width: 205px;
+}
+.logoStoreChild {
+  top: 0;
+  left: 0;
+  height: 70px;
+  object-fit: cover;
+}
+.logoStore {
+  top: 19px;
+  left: 92px;
+  height: 49px;
+  cursor: pointer;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 132px;
+  height: 36px;
+}
+.search,
+.searchIcon {
+  position: absolute;
+  top: 6px;
+}
+.searchIcon {
+  left: 97px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.search {
+  left: 20px;
+  line-height: 24px;
+}
+.vectorParent {
+  position: relative;
+  width: 132px;
+  height: 36px;
+}
+.shoppingCartIcon,
+.userIcon {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.userIcon {
+  position: relative;
+  flex-shrink: 0;
+}
+.shoppingCartIcon {
+  position: absolute;
+  top: 12px;
+  left: 0;
+}
+.frameItem {
+  position: absolute;
+  height: 73.17%;
+  width: 91.45%;
+  top: 4.18%;
+  right: 0.43%;
+  bottom: 22.65%;
+  left: 8.12%;
+  border-radius: 50%;
+  background-color: var(--color-red);
+}
+.div,
+.ellipseParent {
+  position: absolute;
+  top: 0;
+}
+.div {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.ellipseParent {
+  left: 14.6px;
+  width: 23.4px;
+  height: 28.7px;
+}
+.shoppingCart {
+  position: relative;
+  width: 38px;
+  height: 43px;
+  text-align: center;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frameParent {
+  position: absolute;
+  top: 22px;
+  left: 1102px;
+  width: 253px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xl);
+}
+.speacialPrice {
+  position: relative;
+  line-height: 24px;
+  color: var(--color-red);
+}
+.clothing {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.chevronDownIcon {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 22px;
+  height: 24px;
+  overflow: hidden;
+}
+.clothingParent {
+  position: relative;
+  width: 94px;
+  height: 24px;
+}
+.tShirt {
+  position: relative;
+  line-height: 24px;
+}
+.header,
+.navBar {
+  position: absolute;
+}
+.navBar {
+  top: 25px;
+  left: 329px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-14xl);
+  color: var(--color-gray-300);
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1481px;
+  height: 85px;
+}
+.bubbleTee {
+  color: var(--color-red);
+}
+.trangChContainer {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 375px;
+  height: 28px;
+}
+.frameInner {
+  position: absolute;
+  top: 34.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1482px;
+  height: 1px;
+}
+.trangChTtCSnPhmParent {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  width: 1481px;
+  height: 35px;
+  font-size: var(--font-size-base);
+}
+.rectangleIcon {
+  position: absolute;
+  top: 97px;
+  left: 80px;
+  width: 1138px;
+  height: 1091px;
+  object-fit: cover;
+}
+.sizeChart {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  width: 1218px;
+  height: 1188px;
+}
+.ccSnPhm {
+  position: absolute;
+  top: 1277px;
+  left: 392px;
+  font-size: var(--font-size-13xl);
+  line-height: 24px;
+  font-weight: 600;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3 {
+  position: absolute;
+  top: 1363px;
+  left: 0;
+  width: 363px;
+  height: 417px;
+  object-fit: cover;
+}
+.frameChild2,
+.frameChild3 {
+  left: 420px;
+}
+.frameChild3 {
+  left: 856px;
+}
+.happyTee {
+  margin: 0;
+  font-weight: 600;
+}
+.p {
+  margin: 0;
+}
+.happyTeeContainer,
+.happyTeeContainer1,
+.happyTeeContainer2 {
+  position: absolute;
+  top: 1802px;
+  left: 49px;
+  line-height: 24px;
+}
+.happyTeeContainer1,
+.happyTeeContainer2 {
+  left: 488px;
+}
+.happyTeeContainer2 {
+  left: 927px;
+}
+.frameGroup {
+  position: absolute;
+  top: 1165px;
+  left: 78px;
+  width: 1232px;
+  height: 1874px;
+  font-size: var(--font-size-xl);
+}
+.property1default {
+  position: absolute;
+  top: -8px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1368px;
+  height: 3543px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}

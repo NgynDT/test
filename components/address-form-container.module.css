@@ -1,0 +1,47 @@
+.vectorIcon {
+  position: absolute;
+  height: 26.33%;
+  width: 7.1%;
+  top: 52.66%;
+  right: 5.07%;
+  bottom: 21.01%;
+  left: 87.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.aChKhc,
+.sACh {
+  position: absolute;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.sACh {
+  top: 16px;
+  left: 30px;
+  width: 312px;
+  height: 41px;
+  opacity: 0.5;
+}
+.aChKhc {
+  height: 32.29%;
+  width: 71.4%;
+  top: 49.63%;
+  left: 5.68%;
+}
+.vectorParent {
+  position: absolute;
+  top: 586px;
+  left: 233px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-500);
+  width: 493px;
+  height: 109px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}
