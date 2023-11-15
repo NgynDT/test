@@ -1,0 +1,482 @@
+.simpleLineIconswrench {
+  position: absolute;
+  top: 1024px;
+  left: 717px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 843px;
+  height: 426px;
+  overflow: hidden;
+}
+.desktop7Child,
+.desktop7Item {
+  position: absolute;
+  top: 186px;
+  left: 0;
+  width: 717px;
+  height: 1711px;
+}
+.desktop7Item {
+  top: 0;
+  background-color: var(--color-black);
+  width: 3120px;
+  height: 186px;
+}
+.adminManager {
+  position: absolute;
+  top: 59px;
+  left: 62px;
+  font-size: var(--font-size-45xl);
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 507px;
+  height: 88px;
+}
+.iconBell,
+.iconChevronRight,
+.iconChevronRight1,
+.iconChevronRight2,
+.iconEnvelopeClosed {
+  position: absolute;
+  height: 2.15%;
+  width: 2.44%;
+  top: 3.76%;
+  right: 21.18%;
+  bottom: 94.09%;
+  left: 76.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconBell,
+.iconChevronRight,
+.iconChevronRight1,
+.iconChevronRight2 {
+  height: 3.67%;
+  top: 3.01%;
+  right: 12.88%;
+  bottom: 93.32%;
+  left: 84.68%;
+}
+.iconChevronRight,
+.iconChevronRight1,
+.iconChevronRight2 {
+  height: 1.23%;
+  width: 0.74%;
+  top: 4.19%;
+  right: 18.75%;
+  bottom: 94.58%;
+  left: 80.51%;
+}
+.iconChevronRight1,
+.iconChevronRight2 {
+  right: 10.45%;
+  left: 88.81%;
+}
+.iconChevronRight2 {
+  top: 4.35%;
+  right: 2.15%;
+  bottom: 94.41%;
+  left: 97.12%;
+}
+.iconHome,
+.qunLSn,
+.vectorIcon {
+  position: absolute;
+  top: 383px;
+  left: 41px;
+  width: 91px;
+  height: 81px;
+}
+.qunLSn,
+.vectorIcon {
+  top: 403px;
+  height: 66px;
+}
+.qunLSn {
+  top: 429px;
+  left: 157px;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 388px;
+  height: 40px;
+}
+.thngK {
+  top: 305px;
+  left: 164px;
+  width: 198px;
+}
+.danhSchHa,
+.thitLp,
+.thmSnPhm,
+.thngK {
+  position: absolute;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  height: 40px;
+}
+.thmSnPhm {
+  top: 331px;
+  left: 787px;
+  color: #6a92af;
+  width: 320px;
+}
+.danhSchHa,
+.thitLp {
+  top: 553px;
+  left: 164px;
+  width: 388px;
+}
+.thitLp {
+  top: 676px;
+  width: 196px;
+}
+.fluentwrench20Regular,
+.vectorIcon1 {
+  position: absolute;
+  top: 764px;
+  left: 41px;
+  width: 91px;
+  height: 54px;
+  overflow: hidden;
+}
+.vectorIcon1 {
+  height: 3.06%;
+  width: 2.92%;
+  top: 35.41%;
+  right: 95.77%;
+  bottom: 61.53%;
+  left: 1.31%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.admin1 {
+  position: absolute;
+  top: 76px;
+  left: 2864px;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158px;
+  height: 48px;
+}
+.akarIconsstatisticUp,
+.vaadinchartIcon {
+  position: absolute;
+  top: 286px;
+  left: 41px;
+  width: 91px;
+  height: 59px;
+  overflow: hidden;
+}
+.vaadinchartIcon {
+  top: 557px;
+  height: 31px;
+}
+.desktop7Inner {
+  position: absolute;
+  top: calc(50% - 724.5px);
+  left: calc(50% - 795px);
+  background-color: var(--color-gainsboro);
+  width: 2288px;
+  height: 87px;
+}
+.span {
+  color: var(--color-black);
+}
+.danhSchSn {
+  color: var(--color-gray-100);
+}
+.adminDanhContainer {
+  position: absolute;
+  top: 235px;
+  left: 797px;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 617px;
+  height: 58px;
+  color: var(--color-steelblue);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 404px;
+  left: 797px;
+  background-color: var(--color-gainsboro);
+  width: 2256px;
+  height: 95px;
+}
+.danhSchSn1,
+.entries,
+.show {
+  position: absolute;
+  top: 438px;
+  left: 869px;
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 415px;
+  height: 41px;
+}
+.entries,
+.show {
+  top: 612px;
+  left: 883px;
+  width: 129px;
+}
+.entries {
+  top: 608px;
+  left: 1249px;
+  width: 177px;
+}
+.frameIcon {
+  position: absolute;
+  top: 598px;
+  left: 1038px;
+  width: 200px;
+  height: 43px;
+  overflow: hidden;
+}
+.desktop7Child1 {
+  position: absolute;
+  top: 586px;
+  left: 2642px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 349px;
+  height: 55px;
+}
+.search {
+  position: absolute;
+  top: 612px;
+  left: 2447px;
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 176px;
+  height: 47px;
+}
+.image1Icon {
+  position: absolute;
+  top: 10px;
+  left: 110px;
+  width: 178px;
+  height: 146px;
+  object-fit: cover;
+}
+.edit {
+  position: absolute;
+  top: 76px;
+  left: 1789px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 87px;
+  height: 28px;
+}
+.delelte,
+.frameChild {
+  position: absolute;
+  top: 68px;
+  left: 1889.5px;
+  width: 4px;
+  height: 34px;
+}
+.delelte {
+  top: 76px;
+  left: 1913px;
+  line-height: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 143px;
+  height: 28px;
+}
+.image1Parent {
+  position: absolute;
+  top: 131px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 1.4px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 2108px;
+  height: 166px;
+  overflow: hidden;
+  color: var(--color-steelblue);
+}
+.image1Icon1 {
+  position: absolute;
+  top: 473px;
+  left: 110px;
+  width: 178px;
+  height: 146px;
+  object-fit: cover;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 795px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 1.4px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 2108px;
+  height: 166px;
+  overflow: hidden;
+}
+.frameInner {
+  top: 629px;
+  background-color: var(--color-white);
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.lineDiv {
+  position: absolute;
+  top: -0.5px;
+  left: 420.5px;
+  border-right: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 1176px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3 {
+  left: 841.5px;
+}
+.frameChild2,
+.frameChild3 {
+  left: 1263.5px;
+  border-right: 1px solid var(--color-gray-200);
+  height: 1161px;
+}
+.frameChild3 {
+  left: 1686.5px;
+  height: 1176px;
+}
+.giTin,
+.mSnPhm,
+.tnSnPhm {
+  position: absolute;
+  top: 43px;
+  left: 453px;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 287px;
+  height: 60px;
+}
+.giTin,
+.tnSnPhm {
+  left: 870px;
+}
+.giTin {
+  top: 39px;
+  left: 1287px;
+}
+.image1Icon2 {
+  position: absolute;
+  top: 308px;
+  left: 110px;
+  width: 178px;
+  height: 146px;
+  object-fit: cover;
+}
+.desktop7Child2,
+.frameParent {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frameParent {
+  top: 686px;
+  left: 883px;
+  border: 1px solid var(--color-black);
+  width: 2108px;
+  height: 1175px;
+  overflow: hidden;
+  text-align: left;
+  color: var(--color-black);
+}
+.desktop7Child2 {
+  top: 403.5px;
+  left: 3052.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 1480px;
+}
+.desktop7Child3 {
+  top: 403.5px;
+  left: 796.5px;
+  border-top: 1px solid var(--color-black);
+  width: 2258px;
+  height: 1px;
+}
+.desktop7Child3,
+.desktop7Child4,
+.desktop7Child5 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop7Child4 {
+  top: 1882.5px;
+  left: 797.5px;
+  border-top: 1px solid var(--color-black);
+  width: 2256px;
+  height: 1px;
+}
+.desktop7Child5 {
+  top: 402.5px;
+  left: 796.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 1481px;
+}
+.desktop7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 3120px;
+  height: 1897px;
+  overflow: hidden;
+}
+.iconChevronRight3,
+.iconChevronRight4,
+.iconChevronRight5 {
+  position: absolute;
+  height: 1.23%;
+  width: 0.74%;
+  top: 22.78%;
+  right: 79.2%;
+  bottom: 75.98%;
+  left: 20.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconChevronRight4,
+.iconChevronRight5 {
+  top: 30.47%;
+  bottom: 68.3%;
+}
+.iconChevronRight5 {
+  top: 36.86%;
+  bottom: 61.9%;
+}
+.admin {
+  position: relative;
+  width: 100%;
+  height: 1897px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

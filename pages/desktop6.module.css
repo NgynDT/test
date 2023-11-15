@@ -1,0 +1,21 @@
+.desktop6Child {
+  position: absolute;
+  margin: 0 !important;
+  top: 184px;
+  left: 510px;
+  width: 794px;
+  height: 2px;
+  z-index: 3;
+}
+.desktop6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1736px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+}
